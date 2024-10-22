@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPLab2.props" />
+</Project>
